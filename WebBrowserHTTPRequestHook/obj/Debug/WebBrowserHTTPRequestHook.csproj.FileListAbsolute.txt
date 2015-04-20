@@ -1,0 +1,19 @@
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\bin\Debug\WebBrowserHTTPRequestHook.exe
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\bin\Debug\WebBrowserHTTPRequestHook.pdb
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.csprojResolveAssemblyReference.cache
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.Form1.resources
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.Properties.Resources.resources
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.csproj.GenerateResource.Cache
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.exe
+C:\Users\Adr\AppData\Local\Temporary Projects\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.pdb
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.exe
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.pdb
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.csprojResolveAssemblyReference.cache
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.Form1.resources
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.Properties.Resources.resources
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.csproj.GenerateResource.Cache
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\bin\Debug\WebBrowserHTTPRequestHook.exe.config
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\bin\Debug\WebBrowserHTTPRequestHook.exe
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\bin\Debug\WebBrowserHTTPRequestHook.pdb
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\Interop.SHDocVw.dll
+F:\C#Source\WebBrowserHTTPRequestHook\WebBrowserHTTPRequestHook\obj\Debug\WebBrowserHTTPRequestHook.csproj.ResolveComReference.cache
